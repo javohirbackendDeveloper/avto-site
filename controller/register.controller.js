@@ -162,5 +162,5 @@ module.exports = {
    register,
    verify,
    login,
-  logout
+   logout
 }
